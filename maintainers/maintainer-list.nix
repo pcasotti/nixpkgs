@@ -13224,6 +13224,12 @@
     githubId = 8641;
     name = "Pierre Carrier";
   };
+  pcasotti = {
+    email = "pedro.c.casotti@gmail.com";
+    github = "pcasotti";
+    githubId = 39450162;
+    name = "Pedro Casotti";
+  };
   pedrohlc = {
     email = "root@pedrohlc.com";
     github = "PedroHLC";

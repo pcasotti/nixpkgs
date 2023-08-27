@@ -34176,6 +34176,8 @@ with pkgs;
 
   nwg-wrapper = callPackage ../applications/misc/nwg-wrapper { };
 
+  nwg-look = callPackage ../applications/misc/nwg-look { };
+
   ocenaudio = callPackage ../applications/audio/ocenaudio { };
 
   ocm = callPackage ../applications/networking/cluster/ocm { };
